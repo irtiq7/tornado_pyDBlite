@@ -1,6 +1,6 @@
 # tornado_pyDBlite
 
-A JSON API using tornado API. PyDBlite was used to create database purely on Python.
+A JSON API using tornado framework. PyDBlite was used to create database purely on Python.
 In order to install Tornado JSON:
 
     pip install Tornado-JSON
